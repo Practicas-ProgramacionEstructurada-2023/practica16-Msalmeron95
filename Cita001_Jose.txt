@@ -1,0 +1,4 @@
+Nombre del Paciente: Jose
+Fecha de Citas: 1/1/1995 12:00:00 AM
+Razón de Consulta: Gripe
+Costo de Consulta: 50
